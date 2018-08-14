@@ -1,0 +1,3 @@
+Para esta tarea se trato de hacer un "pull request & merge" el cual no fue posible.
+Lo más seguro es porque a ambos poemas se le añadió una estrofa diferente en el mismo renglón.
+Sin embargo el pull request fue posible.
